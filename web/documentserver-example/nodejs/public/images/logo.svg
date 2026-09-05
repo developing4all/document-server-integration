@@ -2,10 +2,10 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink"
 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="250" height="96" viewBox="0 0 250 96">
+xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="102" height="32" viewBox="0 0 102 32">
 
   
-  <svg x="8" y="8" width="80" height="80" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
+  <svg x="2" y="2" width="28" height="28" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
     <defs
      id="defs1">
     <linearGradient
@@ -151,8 +151,6 @@ xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="250" 
        sodipodi:nodetypes="cccc" />
   </g>
   </svg>
-  <g font-family="Noto Sans Display, Noto Sans, Arial, sans-serif">
-    <text x="101" y="45" font-size="31" font-weight="700" fill="#002C54" letter-spacing="-0.7">WeSAll</text>
-    <text x="101" y="72" font-size="20" font-weight="500" fill="#00AAFF" letter-spacing="-0.25">Office</text>
-  </g>
+  <text x="36" y="22" font-family="Noto Sans Display, Noto Sans, Arial, sans-serif"
+        font-size="17" font-weight="700" fill="#FFFFFF" letter-spacing="-0.35">WeSAll</text>
 </svg>

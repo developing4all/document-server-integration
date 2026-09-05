@@ -1,0 +1,8 @@
+{
+    "server": {
+        "exampleUrl": "EXAMPLE_URL",
+        "token": {
+            "secret": "JWT_SECRET"
+        }
+    }
+}

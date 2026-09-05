@@ -1,9 +1,12 @@
 {
-  "server": {
-    "appName": "WeSAll Office",
-    "siteUrl": "/",
-    "maxFileSize": 104857600,
-    "storageFolder": "/var/lib/euro-office/documentserver-example/files",
-    "enableForgotten": false
-  }
+    "server": {
+        "appName": "WeSAll Office",
+        "siteUrl": "/",
+        "maxFileSize": 104857600,
+        "storageFolder": "/var/lib/euro-office/documentserver-example/files",
+        "enableForgotten": false,
+        "token": {
+            "enable": true
+        }
+    }
 }
